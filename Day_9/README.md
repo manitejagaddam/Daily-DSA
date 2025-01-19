@@ -6,6 +6,8 @@ The **Max Consecutive Ones** problem involves finding the maximum number of cons
 ### Example Input:
 - `nums = [1, 1, 0, 1, 1, 1]`
 
+
+
 ### Expected Output:
 - **Output:** `3`
   - Explanation: The longest streak of consecutive `1`s in the array is `[1, 1, 1]`, which has a length of `3`.
@@ -14,6 +16,8 @@ The **Max Consecutive Ones** problem involves finding the maximum number of cons
 You can find the problem on [LeetCode - Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/).
 
 ---
+
+
 
 ## Approach and Solution
 
